@@ -1,6 +1,6 @@
 # Linux_learning
 ##Занятие 1. Обновление ядра системы##
-- parallels@ubuntu-linux-2404:~$ uname -r
+1 parallels@ubuntu-linux-2404:~$ uname -r
 - 6.8.0-40-generic
 - parallels@ubuntu-linux-2404:~$ uname -p
 - aarch64
